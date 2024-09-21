@@ -5269,6 +5269,19 @@
 							"width": 80,
 							"height": 32,
 							"text": "have"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAGSEuiAEAngrcc=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 248,
+							"top": 784,
+							"width": 608,
+							"height": 33,
+							"text": "Class diagram for Payroll System [Monisha-2022503006]"
 						}
 					]
 				},
