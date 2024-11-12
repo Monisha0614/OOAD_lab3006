@@ -4690,6 +4690,19 @@
 									}
 								},
 								{
+									"_type": "UMLTextBoxView",
+									"_id": "AAAAAAGSEuFo/ORH/28=",
+									"_parent": {
+										"$ref": "AAAAAAGSErFz394PzbQ="
+									},
+									"font": "Arial;28;0",
+									"left": 408,
+									"top": 1376,
+									"width": 864,
+									"height": 112,
+									"text": "Sequence diagram for E-Commerce Website   [Monisha-2022503006]"
+								},
+								{
 									"_type": "UMLSeqMessageView",
 									"_id": "AAAAAAGSEtSHZuQW4qM=",
 									"_parent": {
@@ -4799,19 +4812,6 @@
 									"activation": {
 										"$ref": "AAAAAAGSEtSHZuQadqg="
 									}
-								},
-								{
-									"_type": "UMLTextBoxView",
-									"_id": "AAAAAAGSEuFo/ORH/28=",
-									"_parent": {
-										"$ref": "AAAAAAGSErFz394PzbQ="
-									},
-									"font": "Arial;28;0",
-									"left": 408,
-									"top": 1376,
-									"width": 864,
-									"height": 112,
-									"text": "Sequence diagram for E-Commerce Website   [Monisha-2022503006]"
 								}
 							]
 						}
